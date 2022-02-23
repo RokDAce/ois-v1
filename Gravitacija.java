@@ -2,6 +2,7 @@ import.java.util.*
 import.java.lang.math
 public class Gravitacija {
     public static void main(String[] args) {
+<<<<<<< HEAD
 		Scanner sc = new Scanner(System.in);
 		double v = sc.nextDouble;
 		double gravPospesek = 0,0;
@@ -11,5 +12,12 @@ public class Gravitacija {
 		
 		gravPospesek = (C*M)/(Math.pow((r+v), 2));
 		
+=======
+		
+		double gravPospesek;
+		double nadVisina;
+        System.out.println(gravPospesek, nadVisina);
+>>>>>>> izpis
     }
+	
 }
