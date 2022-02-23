@@ -1,5 +1,9 @@
 public class Gravitacija {
     public static void main(String[] args) {
-        System.out.println("Hello World!");
+		
+		double gravPospesek;
+		double nadVisina;
+        System.out.println(gravPospesek, nadVisina);
     }
+	
 }
